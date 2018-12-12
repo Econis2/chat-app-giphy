@@ -1,0 +1,15 @@
+{
+    "id": "30c54da7-24e0-4e12-b05b-db204e8898da",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.3.2",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Derek Spiner",
+        "homepage": "-",
+        "support": "-"
+    },
+    "name": "giphy",
+    "nameSlug": "giphy",
+    "classFile": "GiphyApp.ts",
+    "description": "giphy app for rocket.chat"
+}
